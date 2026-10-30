@@ -1,0 +1,16 @@
+{
+  "java.import.maven.enabled": true,
+  "java.import.generatesMetadataFilesAtProjectRoot": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.server.launchMode": "Standard",
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/temurin-23.jdk/Contents/Home",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-23",
+      "path": "/Library/Java/JavaVirtualMachines/temurin-23.jdk/Contents/Home",
+      "default": true
+    }
+  ],
+  "java.project.sourcePaths": ["src/main/java"],
+  "java.project.outputPath": "target/classes"
+}
